@@ -27,4 +27,4 @@ Visit the [TIME-AD website](https://www.time-ad.org/) to earn more about our [le
 ## Code to Accompany Papers
 | Name | Paper Link | Repo | 
 | -------- | ------- | ------- | 
-| | |
+| The Association of Alzheimer’s Disease Genetic Risk with Social Connectedness in Middle- And Older-Ages  | (AJE)(https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwaf122/8161736)|  [Repo in progress](https://github.com/TIME-AD/Paper_RevMR_ADGRS_Social)|
