@@ -18,13 +18,14 @@ Visit the [TIME-AD website](https://www.time-ad.org/) to earn more about our [le
 | Age of Divergence in the Association of a Genetic Risk Score with a Phenotype | [Age_of_Divergence](https://github.com/TIME-AD/Age_of_Divergence) | 
 | Multiverse Analysis | [Multiverse](https://github.com/TIME-AD/Multiverse) | Scott Zimmerman |
 
+
 ## Helper Functions
 | Method | Description | Repo | 
-| -------- | ------- | 
+| -------- | ------- | ------- | 
 | Exclusions table | Template code to create exclusions tables for flowcharts | [Exclusions_Table](https://github.com/TIME-AD/Exclusions_Table) |
 | Table 1 | Template code to make covariate descriptions tables (Table 1s) |  [Table_1](https://github.com/TIME-AD/Table_1) |
 
 ## Code to Accompany Papers
 | Name | Paper Link | Repo | 
 | -------- | ------- | ------- | 
-| The Association of Alzheimer’s Disease Genetic Risk with Social Connectedness in Middle- And Older-Ages  | (AJE)(https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwaf122/8161736)|  [Repo in progress](https://github.com/TIME-AD/Paper_RevMR_ADGRS_Social)|
+| The Association of Alzheimer’s Disease Genetic Risk with Social Connectedness in Middle- And Older-Ages  | [AJE](https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwaf122/8161736)|  [Repo in progress](https://github.com/TIME-AD/Paper_RevMR_ADGRS_Social)|
