@@ -16,8 +16,7 @@ Visit the [TIME-AD website](https://www.time-ad.org/) to earn more about our [le
 | Method | Repo | 
 | -------- | ------- | 
 | Age of Divergence in the Association of a Genetic Risk Score with a Phenotype | [Age_of_Divergence](https://github.com/TIME-AD/Age_of_Divergence) | 
-| Multiverse Analysis | [Multiverse](https://github.com/TIME-AD/Multiverse) | Scott Zimmerman |
-
+| Multiverse Analysis | [Multiverse](https://github.com/TIME-AD/Multiverse) | 
 
 ## Helper Functions
 | Method | Description | Repo | 
