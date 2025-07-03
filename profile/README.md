@@ -26,15 +26,15 @@ Visit the [TIME-AD website](https://www.time-ad.org/) to earn more about our [le
 | -------- | ------- | ------- | 
 | Exclusions table | Template code to create exclusions tables for flowcharts | [Exclusions_Table](https://github.com/TIME-AD/Exclusions_Table) |
 | Table 1 | Template code to make covariate descriptions tables (Table 1s) |  [Table_1](https://github.com/TIME-AD/Table_1) |
-| Inverse function binary search | For a monotonic increasing function y=f(x), find x given y: Useful for optimizations|  [InverseFnBinsearch](https://github.com/GlymourGroup/InverseFnBinsearch) |
-| Custom coeffienct plots | How to create a customizable coefficient plot using ggplot in R |  [custom_coef_plot](https://github.com/GlymourGroup/custom_coef_plot) |
-| Minimum detectible effect | Calculate and plot power, minimum sample size, and minimum detectible effects for multiple data sets | [Minimum_detectable_effect](https://github.com/GlymourGroup/Minimum_detectable_effect)|
+| Inverse function binary search | For a monotonic increasing function y=f(x), find x given y: Useful for optimizations|  [InverseFnBinsearch](https://github.com/TIME-AD/InverseFnBinsearch) |
+| Custom coeffienct plots | How to create a customizable coefficient plot using ggplot in R |  [custom_coef_plot](https://github.com/TIME-AD/custom_coef_plot) |
+| Minimum detectible effect | Calculate and plot power, minimum sample size, and minimum detectible effects for multiple data sets | [Minimum_detectable_effect](https://github.com/TIME-AD/Minimum_detectable_effect)|
 
 ## Code to Accompany Papers
 | Name | Paper Link | Repo | 
 | -------- | ------- | ------- | 
 | Methods to crosswalk between cognitive test scores using data from the Alzheimer's Disease Neuroimaging Cohort | [A&D](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.14597)| [Repo](https://github.com/jrgant/cogxwalkr)|
-| The Association of Alzheimer’s Disease Genetic Risk with Social Connectedness in Middle- And Older-Ages  | [AJE](https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwaf122/8161736)|  [Repo in progress](https://github.com/TIME-AD/Paper_RevMR_ADGRS_Social)|
+| The Association of Alzheimer’s Disease Genetic Risk with Social Connectedness in Middle- And Older-Ages  | [AJE](https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwaf122/8161736)| Repo finalization in progress|
 
 ## Other
 | Description | Link | 
