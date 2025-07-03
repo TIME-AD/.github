@@ -28,7 +28,7 @@ Visit the [TIME-AD website](https://www.time-ad.org/) to earn more about our [le
 | Table 1 | Template code to make covariate descriptions tables (Table 1s) |  [Table_1](https://github.com/TIME-AD/Table_1) |
 | Inverse function binary search | For a monotonic increasing function y=f(x), find x given y: Useful for optimizations|  [InverseFnBinsearch](https://github.com/GlymourGroup/InverseFnBinsearch) |
 | Custom coeffienct plots | How to create a customizable coefficient plot using ggplot in R |  [custom_coef_plot](https://github.com/GlymourGroup/custom_coef_plot) |
-| Minimum detectible effect | Calculate and plot power, minimum sample size, and minimum detectible effects for multiple data sets | [Minimum_detectable_effect](https://github.com/TIME-AD/Minimum_detectable_effect)|
+| Minimum detectible effect | Calculate and plot power, minimum sample size, and minimum detectible effects for multiple data sets | [Minimum_detectable_effect](https://github.com/GlymourGroup/Minimum_detectable_effect)|
 
 ## Code to Accompany Papers
 | Name | Paper Link | Repo | 
