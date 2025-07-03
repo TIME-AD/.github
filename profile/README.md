@@ -10,7 +10,7 @@ Visit the [TIME-AD website](https://www.time-ad.org/) to earn more about our [le
 1. [Analysis Methods Code](#analysis-methods-code) - Analysis method code and guidance
 2. [Helper Functions](#helper-functions) - Useful reusable functions for analysis and manuscript preparation
 3. [Code to Accompany Papers](#code-to-accompany-papers) - Code that accompanies our published papers
-
+4. [Other Repos](#other)
 
 ## Analysis Methods Code
 | Method | Repo | 
@@ -18,6 +18,7 @@ Visit the [TIME-AD website](https://www.time-ad.org/) to earn more about our [le
 | Age of Divergence in the Association of a Genetic Risk Score with a Phenotype | [Age_of_Divergence](https://github.com/TIME-AD/Age_of_Divergence) | 
 | Multiverse Analysis | [Multiverse](https://github.com/TIME-AD/Multiverse) | 
 | Cognitive crosswalking | [cogxwalkr](https://github.com/jrgant/cogxwalkr)|
+| Bootstrapping example code | [bootstrap](https://github.com/GlymourGroup/bootstrap) |
 
 ## Helper Functions
 | Method | Description | Repo | 
@@ -31,4 +32,9 @@ Visit the [TIME-AD website](https://www.time-ad.org/) to earn more about our [le
 | Methods to crosswalk between cognitive test scores using data from the Alzheimer's Disease Neuroimaging Cohort | [A&D](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.14597)| [Repo](https://github.com/jrgant/cogxwalkr)|
 | The Association of Alzheimer’s Disease Genetic Risk with Social Connectedness in Middle- And Older-Ages  | [AJE](https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwaf122/8161736)|  [Repo in progress](https://github.com/TIME-AD/Paper_RevMR_ADGRS_Social)|
 
+## Other
+| Description | Link | 
+
+| Glymour research group github | [Mayeda](https://github.com/Mayeda-Research-Group)
+| Mayeda research group gighub | [Mayeda](https://github.com/Mayeda-Research-Group)
 
