@@ -25,6 +25,7 @@ Visit the [TIME-AD website](https://www.time-ad.org/) to earn more about our [le
 | -------- | ------- | ------- | 
 | Exclusions table | Template code to create exclusions tables for flowcharts | [Exclusions_Table](https://github.com/TIME-AD/Exclusions_Table) |
 | Table 1 | Template code to make covariate descriptions tables (Table 1s) |  [Table_1](https://github.com/TIME-AD/Table_1) |
+| Inverse function binary search | For a monotonic increasing function y=f(x), find x given y: Useful for optimizations|  [InverseFnBinsearch](https://github.com/GlymourGroup/InverseFnBinsearch) |
 
 ## Code to Accompany Papers
 | Name | Paper Link | Repo | 
