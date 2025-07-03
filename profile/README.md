@@ -17,9 +17,9 @@ Visit the [TIME-AD website](https://www.time-ad.org/) to earn more about our [le
 | -------- | ------- | 
 | Age of Divergence in the Association of a Genetic Risk Score with a Phenotype | [Age_of_Divergence](https://github.com/TIME-AD/Age_of_Divergence) | 
 | Multiverse Analysis and effective sensitivity analysis code structure | [Multiverse](https://github.com/TIME-AD/Multiverse) | 
-| Cognitive crosswalking | [cogxwalkr](https://github.com/jrgant/cogxwalkr)|
-| Bootstrapping example code | [bootstrap](https://github.com/GlymourGroup/bootstrap) |
-| Effective simulation code organization example | [SimStructureDemo](https://github.com/GlymourGroup/SimStructureDemo) | 
+| Cognitive crosswalking | [cogxwalkr](https://github.com/TIME-AD/cogxwalkr)|
+| Bootstrapping example code | [bootstrap](https://github.com/TIME-AD/bootstrap) |
+| Effective simulation code organization example | [SimStructureDemo](https://github.com/TIME-AD/SimStructureDemo) | 
 
 ## Helper Functions
 | Method | Description | Repo | 
