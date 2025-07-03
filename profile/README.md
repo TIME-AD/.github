@@ -38,7 +38,8 @@ Visit the [TIME-AD website](https://www.time-ad.org/) to earn more about our [le
 
 ## Other
 | Description | Link | 
-| KHANDLE, STAR and LA90 github | [KHANDLE-STAR-LA90](https://github.com/KHANDLE-STAR-LA90)
-| Glymour research group github | [Glymour](https://github.com/GlymourGroup/)
-| Mayeda research group gighub | [Mayeda](https://github.com/Mayeda-Research-Group)
+| ------- | ------- | 
+| KHANDLE, STAR and LA90 github | [KHANDLE-STAR-LA90](https://github.com/KHANDLE-STAR-LA90) |
+| Glymour research group github | [Glymour](https://github.com/GlymourGroup/) |
+| Mayeda research group gighub | [Mayeda](https://github.com/Mayeda-Research-Group) |
 
