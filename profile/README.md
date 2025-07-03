@@ -17,6 +17,7 @@ Visit the [TIME-AD website](https://www.time-ad.org/) to earn more about our [le
 | -------- | ------- | 
 | Age of Divergence in the Association of a Genetic Risk Score with a Phenotype | [Age_of_Divergence](https://github.com/TIME-AD/Age_of_Divergence) | 
 | Multiverse Analysis | [Multiverse](https://github.com/TIME-AD/Multiverse) | 
+| Cognitive crosswalking | [cogxwalkr](https://github.com/jrgant/cogxwalkr)|
 
 ## Helper Functions
 | Method | Description | Repo | 
@@ -27,4 +28,7 @@ Visit the [TIME-AD website](https://www.time-ad.org/) to earn more about our [le
 ## Code to Accompany Papers
 | Name | Paper Link | Repo | 
 | -------- | ------- | ------- | 
+| Methods to crosswalk between cognitive test scores using data from the Alzheimer's Disease Neuroimaging Cohort | [A&D](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.14597)| [Repo](https://github.com/jrgant/cogxwalkr)|
 | The Association of Alzheimer’s Disease Genetic Risk with Social Connectedness in Middle- And Older-Ages  | [AJE](https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwaf122/8161736)|  [Repo in progress](https://github.com/TIME-AD/Paper_RevMR_ADGRS_Social)|
+
+
